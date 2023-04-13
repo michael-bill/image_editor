@@ -4,9 +4,9 @@
 
 Требования установленных пакетов для раобты приложения:
 
-``pip install numpy``
-``pip install opencv-python``
-``pip install Pillow``
+``pip install numpy``<br/>
+``pip install opencv-python``<br/>
+``pip install Pillow``<br/>
 
 img_examples - тестовые изображения, на которых можно проверить работу приложения<br/>
 image_editor.py - модуль преобработки, фильтрации и улучшений изображений<br/>
